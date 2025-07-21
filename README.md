@@ -1,18 +1,25 @@
-# dicoding-movie-list
-Aplikasi UI Flutter Movie List Untuk memenuhi keperluan Submission Dicoding Kelas Belajar Membuat Aplikasi Flutter untuk Pemula.
-# movie_list
+# Dicoding Movie List App 🎬
 
-A new Flutter project.
+A simple Flutter app showcasing a movie list UI.  
+Built for Dicoding Flutter Submission — **Belajar Membuat Aplikasi Flutter untuk Pemula**.
 
-## Getting Started
+## 🚀 Features
+- Clean UI with responsive layout
+- Stateless and Stateful widget usage
+- Navigation with BottomNavigationBar
+- No external state management or database
 
-This project is a starting point for a Flutter application.
+## 📷 Screenshots
+> null
 
-A few resources to get you started if this is your first Flutter project:
+## 🎨 UI Design Inspiration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project’s UI was inspired by concepts from **Dribbble**, focusing on modern & simple card-based movie apps.  
+Some of the references Design & Colors:
+- [Streaming Mobile App - UI/UX Design by Shasanko Creations](https://dribbble.com/shots/25908757-Streaming-Mobile-App-UI-UX-Design)
+- [Black Entertainment Television Website](https://dribbble.com/shots/25829639-Black-Entertainment-Television-Website)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> ⚠️ *If the links show a 403 Forbidden error, copy the URL and open it in a new browser tab manually.*
+---
+
+© 2025 — Built with ❤️ by Naufal Fadhiil
