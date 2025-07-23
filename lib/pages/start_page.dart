@@ -63,7 +63,7 @@ class StartPage extends StatelessWidget {
               width: 200,
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(10),
-                color: Color(0xFFce3536),
+                color: Color(0xFF2b70a8),
               ),
               padding: EdgeInsets.all(25.0),
               child: const Text(
